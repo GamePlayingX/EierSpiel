@@ -1,0 +1,25 @@
+name: Info
+version: 1.0
+author: GamePlayingX
+main: me.gameplayingx.info.info
+
+commands:
+     Information:
+          description: KampfCraft Informationen
+          permissions: info.use
+          usage: /<command>
+     skype:
+          description: KampfCraft ServerTeam
+          usage: /<command>
+     ts3:
+          description: KampfCraft ServerTeam
+          usage: /<command>
+     Spenden:
+          description: KampfCraft Spenden
+          usage: /<command>
+     Vote:
+          description: KampfCraft Voten
+          usage: /<command>
+     team:
+          description: KampfCraft ServerTeam
+          usage: /<command>
