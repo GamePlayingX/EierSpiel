@@ -1,0 +1,10 @@
+name: Splegg
+version: 0.2
+main: com.gameplayingx.splegg.Splegg
+authors: [GamePlayingX]
+description: Splegg > Spleef using eggs
+softdepend: [WorldEdit]
+commands:
+  splegg:
+    description:
+    aliases: [sp]
